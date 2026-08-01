@@ -1,0 +1,10 @@
+transformers 
+datasets 
+accelerate 
+evaluate 
+scikit-learn 
+sentencepiece
+python-dotenv
+streamlit
+
+-e .
