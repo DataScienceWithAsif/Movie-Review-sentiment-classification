@@ -6,5 +6,7 @@ scikit-learn
 sentencepiece
 python-dotenv
 streamlit
+gradio
+spaces
 
 -e .
