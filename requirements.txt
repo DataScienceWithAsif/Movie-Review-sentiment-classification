@@ -3,6 +3,8 @@ datasets
 accelerate 
 evaluate 
 scikit-learn 
+seaborn
+matplotlib
 sentencepiece
 python-dotenv
 streamlit
