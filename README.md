@@ -2,7 +2,7 @@
 
 A modern NLP project that classifies movie reviews as **Positive** or **Negative** using a fine-tuned **DistilBERT** model hosted on Hugging Face. Includes an interactive Streamlit app for single-review predictions as well as full batch evaluation with accuracy, precision, recall, F1-score, and a confusion matrix.
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Transformers](https://img.shields.io/badge/🤗%20Transformers-NLP-yellow)](https://huggingface.co/docs/transformers/index)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
